@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <!--
 **Sharzzz001/Sharzzz001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on visualising Air Quality data across India and bringing out meaningful data out of it, as a personal project.
 
 
-![github.com/Sharzzz001](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github.com/Sharzzz001](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
