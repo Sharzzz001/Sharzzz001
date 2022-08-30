@@ -65,7 +65,7 @@ Other than that, I enjoy watching F1. I also have played chess for a long time w
 ## <img src="https://media4.giphy.com/media/0JdFJmMXMKOOXi73ij/giphy.gif?cid=ecf05e47cgwaxxzhcjlys1eib8qhc5z8o1we12nysnqn56pa&rid=giphy.gif&ct=s" width="30px" height="30px"> Links
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1T7sMnnW7T-WDDQf0xhMArSyp1cx0uW0Q/view?usp=sharing)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Sharzzz001)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/Sharzzz001)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:sharanshettywork.001@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sharan.shettyy/)
 
 <!--
