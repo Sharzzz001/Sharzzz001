@@ -1,8 +1,8 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## <img src="https://media4.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif?cid=ecf05e472j96hrq6j3h2necuid8x19bd2en0ysqcssixctwd&rid=giphy.gif&ct=s" width="25px" height="25px"> About Me
-I am Sharan Shetty, a **Python Developer** (Specialising in **Data Analysis** and **Machine Learning**). I am Pursuing my [**MBA + Bachelor**](https://engineering.nmims.edu/academics/programmes/mba-tech/information-technology/) in **Information Technology** and will graduate in summer 2023.
+I am Sharan Shetty, a **Python Developer** (Specialising in **Data Analysis** and **Machine Learning**). I am pursuing my [**MBA + Bachelor**](https://engineering.nmims.edu/academics/programmes/mba-tech/information-technology/) in **Information Technology** and will graduate in summer 2023.
 
-I enjoy contributing to Open Source Projects, especially in the Web / App Development Phase, and have done so for companies such as **Sapio Analytics** and **Phemesoft**. Learning new technology is an interest of mine, and I have recently begun learning **Solidity** for Blockchain development, smart contracts, and DApps.
+I enjoy contributing to Open Source projects, especially in the Web / App Development Phase, and have done so for companies such as **Sapio Analytics** and **Phemesoft**. Learning new technology is an interest of mine, and I have recently begun learning **Solidity** for Blockchain development, smart contracts, and DApps.
 
 Other than that, I enjoy watching F1. I also have played chess for a long time which has significantly helped me improve my problem solving skills.
 
