@@ -1,5 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-## <img src="https://media4.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif?cid=ecf05e472j96hrq6j3h2necuid8x19bd2en0ysqcssixctwd&rid=giphy.gif&ct=s" width="29px" height="29px"> About Me
+## <img src="https://media4.giphy.com/media/hpFCIpvGxUKgTfjRKl/giphy.gif?cid=ecf05e472j96hrq6j3h2necuid8x19bd2en0ysqcssixctwd&rid=giphy.gif&ct=s" width="15px" height="15px"> About Me
 <!--
 **Sharzzz001/Sharzzz001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
