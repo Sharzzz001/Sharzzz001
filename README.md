@@ -10,7 +10,7 @@ Other than that, I enjoy watching F1. I also have played chess for a long time w
 - 🤝 **Student Placement Co-Ordinator** at NMIMS, 2020.
 - ⭐ **4-star problem solver** at Hackerrank.
 - 🥈 Runner up at TechSparks, a competition held by FCRIT, Mumbai
-- 👑 Chess Elo 1800 and increasing
+- 👑 [**Chess**](https://www.chess.com/stats/overview/sharzzz?) Elo 1800 and increasing
 
 ## <img src="https://media2.giphy.com/media/P4S1Ybi8ok7oiPBQWu/giphy.gif?cid=ecf05e47r41tbxul2xbg0idb63y2sbden4s77qv1lvwn5iiy&rid=giphy.gif&ct=s" width="30px" height="30px"> Publications
 📝 [**IJSREM: “Heart Disease Prediction systems and comparison of methods to improve public healthcare”**](https://www.doi.org/10.55041/IJSREM11497)
